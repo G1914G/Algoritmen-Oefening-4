@@ -2,6 +2,8 @@
 
 Gegeven is een lijst genaamd nums met lengte n en een integer (geheel getal) genaamd target. Bepaal het aantal paren (i, j) waarvoor nums[i] + nums[j] < target.
 
+De functie moet de naam countTargetPairs() krijgen.
+
 Hierbij zijn i en j verschillend van elkaar en 0 <= i < n en 0 <= j < n.
 
 Voorbeeld 1:
