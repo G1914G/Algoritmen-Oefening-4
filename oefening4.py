@@ -1,1 +1,1 @@
-
+def countTargetPairs():
